@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @rivest-oss
+# Hi! 👋
+### I’m Rivest Osz,
+#### I’m an [semi-senior] Node.js, PHP, HTML/CSS/JS programmer.
+
+I was born (and still live) in Córdoba, Argentina 🇦🇷.
+I'm available for any (freelance) job or contract 🧑‍💻.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
