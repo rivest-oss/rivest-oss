@@ -1,9 +1,12 @@
 # Hi! 👋
 ### I’m Rivest Osz,
-#### I’m an [semi-senior] Node.js, PHP, HTML/CSS/JS programmer.
+#### I’m an [__semi-senior__] Node.js, PHP, HTML/CSS/JS programmer.
 
 I was born (and still live) in Córdoba, Argentina 🇦🇷.
-I'm available for any (freelance) job or contract 🧑‍💻.
+I can talk in Spanish (maternal language) and English, at a decent level.
+I'm available for any programmer/translator-related (freelance) job 🧑‍💻.
+
+I have
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
