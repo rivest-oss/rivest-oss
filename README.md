@@ -23,7 +23,7 @@ You can contact me by the following ways:
 
 * Email: [rivest@katyusha.xyz](mailto:rivest@katyusha.xyz)
 
-* Telegram: [@developer4u](https://t.me/developer4u)
+* Telegram: [@RivDev](https://t.me/RivDev)
 
 * Discord: [Ривест#0141](https://chikabots.xyz/user/768761151739658240)
 
