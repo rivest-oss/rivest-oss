@@ -58,9 +58,11 @@ Me puedes donar por los siguientes medios:
 <img align="left" alt="Discord.js" width="26px" src="https://github.com/github/explore/blob/main/topics/discord-js/discord-js.png" />
 <img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png" />
 <br><br>
+
 **Entre muchos, muchos más**
 
 ### Espero que tengas un buen día/noche.
 
 *Traducciones de este documento*:
-	If you want to read the English version, [hclick here](https://github.com/rivest-oss/rivest-oss/README.md).
+
+* If you want to read the English version, [click here](https://github.com/rivest-oss/rivest-oss/blob/main/README.md).
