@@ -58,9 +58,11 @@ You can donate me by the following ways:
 <img align="left" alt="Discord.js" width="26px" src="https://github.com/github/explore/blob/main/topics/discord-js/discord-js.png" />
 <img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png" />
 <br><br>
+
 **Among many, many others**
 
 ### I hope you have a great day/night.
 
 *Translations of this document*:
-	Si quieres leer la versión en Español, [hazme click](https://github.com/rivest-oss/rivest-oss/LEEME.md).
+
+* Si quieres leer la versión en Español, [hazme click](https://github.com/rivest-oss/rivest-oss/blob/main/LEEME.md).
