@@ -39,6 +39,7 @@ Me puedes donar por los siguientes medios:
 <img align="left" alt="Telegram" width="26px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png?raw=true" />
 <img align="left" alt="Discord" width="26px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png?raw=true" />
 <img align="left" alt="Twitter" width="26px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" />
 <img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" />
 <img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/300px-Repl.it_logo.svg.png" />
 <img align="left" alt="Javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
