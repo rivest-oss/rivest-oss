@@ -5,7 +5,7 @@ If you want to read this document in its English version, [open this link](https
 #### Soy un programador que ama las cosas de bajo nivel.
 
 Vivo en Córdoba, Argentina 🇦🇷.
-Puedo hablar tanto español como inglés.
+Puedo hablar tanto inglés como español.
 Estoy disponible para cualquier proyecto relacionado con programación (trabajo a nivel de comisiones).
 
 Soy proficiente en JavaScript, con más de cuatro años de experiencia, sin embargo, he usado C++ la mayor parte del año pasado.
