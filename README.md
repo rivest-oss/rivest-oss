@@ -24,7 +24,7 @@ If you want to hire my services temporarily, the comission system works as follo
 If you have any questions, you can contact me by the following means:
 
 - E-mail: [`rivest-oss@proton.me`](mailto:rivest-oss@proton.me)
-- Telegram: [@RivestOsz](https://t.me/RivestOsz)
+- Telegram: [`@RivestOsz`](https://t.me/RivestOsz)
 - Discord: `@rivestoss`
 
 If you want to buy me a coffee, you can do it by the following means:
