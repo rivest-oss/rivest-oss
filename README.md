@@ -1,4 +1,4 @@
-Si querés leer la versión en Español de este documento, [abrí este enlace](https://github.com/rivest-oss/rivest-oss/blob/main/LEEME.md).
+Si querés leer este documento en su versión española, [abrí este enlace](https://github.com/rivest-oss/rivest-oss/blob/main/LEEME.md).
 
 # Hi! 👋
 ### I’m Rivest Osz,
