@@ -1,69 +1,35 @@
+Si querés leer la versión en Español de este documento, [abrí este enlace](https://github.com/rivest-oss/rivest-oss/blob/main/LEEME.md).
+
 # Hi! 👋
 ### I’m Rivest Osz,
-#### I’m an [__semi-senior__] Node.js, HTML/CSS/JS programmer.
+#### I’m a programmer who loves low-level stuff.
 
-<!--
-[<img align="left" alt="${Name}" width="26px" src="${IconURL}" />][web]
+I live in Córdoba, Argentina 🇦🇷.
+I can speak both English and Spanish.
+I'm available for any programming-related project (I work on comissions basis).
 
-https://github.com/github/explore/tree/main/topics for more icons
--->
+I am proficient in JavaScript, with over four years of experience, although in the last year I have ben using C++ most of the time.
+I have tried a variety of programming languages, including Rust, Go, and assembler. And I'm happy to adapt to many, many more.
 
-I was born (and still live) in Córdoba, Argentina 🇦🇷.
-I can talk in Spanish (maternal language) and decent English.
-I'm available for any programmer/translator-related job 🧑‍💻 (currently, I work with commissions).
+I have worked in all kinds of low-resource environments, be it low memory, CPU time, and facilities.
+I have programmed on controllers, old (1990<) computers, and old videogame consoles.
 
-I have two years of experience with Node.js, and had some experience with Express + Pug/EJS.
-I also manage the Discord.js library (Discord Bots) and have experience with HTML + CSS + Javascript.
+If you want to hire my services temporarily, the comission system works as follows:
 
-I mostly work on Node.js > v12.
+- We negociate the neds of the project and the price of the comission.
+- I will start working on what we agreed, and I will show you how it is coming along.
+- As the project progresses, you may request a number of changes.
+- We will exchange the final result and the comission payment.
 
-The commission work works in a simple way, after negotiating, you pay me **50%** of the price to start developing the application, and when I have it ready, you pay me the other **50%** and **I will deliver what I promised**.
+If you have any questions, you can contact me by the following means:
 
-You can contact me by the following ways:
+- E-mail: [`rivest-oss@proton.me`](mailto:rivest-oss@proton.me)
+- Telegram: [@RivestOsz](https://t.me/RivestOsz)
+- Discord: `@rivestoss`
 
-* Email: [rivest@katyusha.xyz](mailto:rivest@katyusha.xyz)
+If you want to buy me a coffee, you can do it by the following means:
 
-* Telegram: [@RivDev](https://t.me/rivestoss)
+- Paypal: [`rivestoss`](https://paypal.me/rivestoss)
+- Buy Me A Coffee: [`rivestoss`](https://www.buymeacoffee.com/rivestoss)
 
-* Discord: [Ривест#0141](https://chikabots.xyz/user/768761151739658240)
-
-You can donate me by the following ways:
-
-* PayPal: [rivestoss](http://paypal.me/rivestoss)
-
-* Basic Attention Token: [my Github](https://github.com/rivest-oss)
-
-* Buy Me A Coffee: [rivestoss](https://www.buymeacoffee.com/rivestoss)
-
-### Tools, platforms, libraries, technologies and languages I use
-<img align="left" alt="Telegram" width="26px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png?raw=true" />
-<img align="left" alt="Discord" width="26px" src="https://github.com/github/explore/blob/main/topics/discord/discord.png?raw=true" />
-<img align="left" alt="Twitter" width="26px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png?raw=true" />
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sublime-text/sublime-text.png" />
-<img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/300px-Repl.it_logo.svg.png" />
-<img align="left" alt="Javascript" width="26px" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" />
-<img align="left" alt="JSON" width="26px" src="https://github.com/github/explore/blob/main/topics/json/json.png?raw=true" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/github/explore/blob/main/topics/nodejs/nodejs.png?raw=true" />
-<img align="left" alt="Node.js Package Manager" width="26px" src="https://github.com/github/explore/blob/main/topics/npm/npm.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/github/explore/blob/main/topics/github/github.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
-<img align="left" alt="Express" width="26px" src="https://github.com/github/explore/blob/main/topics/express/express.png" />
-<img align="left" alt="Pug" width="26px" src="https://github.com/github/explore/blob/main/topics/pug/pug.png" />
-<img align="left" alt="Stack Overflow" width="26px" src="https://github.com/github/explore/blob/main/topics/stackoverflow/stackoverflow.png" />
-<!-- [<img align="left" alt="SSH/Terminal" width="26px" src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png" />][web] -->
-<img align="left" alt="SSH/Bash" width="26px" src="https://github.com/github/explore/blob/main/topics/bash/bash.png" />
-<img align="left" alt="Xubuntu" width="26px" src="https://github.com/github/explore/blob/main/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="Brave" width="26px" src="https://github.com/github/explore/blob/main/topics/chromium/chromium.png" />
-<img align="left" alt="Apache Cordova" width="26px" src="https://github.com/github/explore/blob/main/topics/cordova/cordova.png" />
-<img align="left" alt="Discord.js" width="26px" src="https://github.com/github/explore/blob/main/topics/discord-js/discord-js.png" />
-<img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/main/topics/markdown/markdown.png" />
-<br><br>
-
-**Among many, many others**
-
-### I hope you have a great day/night.
-
-*Translations of this document*:
-
-* Si quieres leer la versión en Español, [hazme click](https://github.com/rivest-oss/rivest-oss/blob/main/LEEME.md).
+**I hope you have a great day/night.**
