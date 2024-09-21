@@ -33,3 +33,5 @@ If you want to buy me a coffee, you can do it by the following means:
 - Buy Me A Coffee: [`rivestoss`](https://www.buymeacoffee.com/rivestoss)
 
 **I hope you have a great day/night.**
+
+<img src="https://raw.githubusercontent.com/rivest-oss/rivest-oss/refs/heads/snake-output/github-contribution-grid-snake-dark.svg" alt="Snake-y" />

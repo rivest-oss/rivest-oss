@@ -33,3 +33,5 @@ Si me quieres comprar un café, puedes hacerlo por los siguientes medios:
 - Buy Me A Coffee: [`rivestoss`](https://www.buymeacoffee.com/rivestoss)
 
 **Espero que tengas un gran día o noche.**
+
+<img src="https://raw.githubusercontent.com/rivest-oss/rivest-oss/refs/heads/snake-output/github-contribution-grid-snake-dark.svg" alt="Snake-y" />
